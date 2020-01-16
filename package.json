@@ -2,7 +2,7 @@
   "name": "bento4-installer",
   "version": "1.0.6",
   "description": "Installs bento4 executables as a node module and provides a path to the bin folder",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "mocha ./src/**/*.spec.js"
   },
